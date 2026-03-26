@@ -22,20 +22,19 @@ nav ul li a:hover {
 nav{
     background-color: #494949;
     width: 100%;
-    text-align: center;
-    padding: 25px 50% 25px 45%;
-    margin:0px 0px 0px -4%;
+    max-width: 800px;
+    align-items: center;
+    padding: 25px 25% 25px 25%;
+    margin: 0px 0px 0px 0px;
 }
 
 body {
     font-family:"Datatype", Arial, sans-serif; 
-    max-width: 800px;
     margin: 0px;
-    padding: 20px;
     background-color: #6e7a82;
     color:rgb(229, 230, 209);
 }
 .pagecontainer{
-    margin: 10px 10% 10px 10%;
+    margin: 10px 0px 10px 25%;
 }
 
