@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
 
     // Data to pass to the template
     const data = {
-        user: "test user"
+      user: 'test user'
     };
 
     // Render the template with data
@@ -55,7 +55,7 @@ app.get('/e1', (req, res) => {
 
     // Data to pass to the template
     const data = {
-        user: "test user"
+      user: 'test user'
     };
 
     // Render the template with data
@@ -83,7 +83,7 @@ app.get('/e2', (req, res) => {
 
     // Data to pass to the template
     const data = {
-        user: "test user"
+      user: 'test user'
     };
 
     // Render the template with data
